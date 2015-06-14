@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# Hashcrack By : Alexcerus HR
+# Hashcrack By : Lucifer
 #
 #Colors :
 class String
